@@ -1,0 +1,135 @@
+.rectan{
+  height: 600px;
+  width: 600px;
+  background-color: none;
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 350px;
+}
+.titlesc{
+
+  height: 100px;
+  width: 550px;
+  background-color: none;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 25px;
+  text-align: left;
+  padding-left: 5px;
+  color: #eac67a;
+  font-family: calibri;
+  font-size: 22px;
+
+}
+.imputs{
+background-color: #233237;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+  color: #984b43;
+  border-left: 0px;
+  border-right: 0px;
+  height: 50px;
+  border-top: 0px;
+  margin-left:0px;
+  margin-top: 25px;
+  border-color:  #984b43;
+}
+.imputs2{
+  background-color: #233237;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+  color: #984b43;
+  border-left: 0px;
+  border-right: 0px;
+  height: 50px;
+  border-top: 0px;
+  margin-left:0px;
+  margin-top: 25px;
+  border-color:  #984b43;
+
+}
+.imputs3{
+  background-color: #233237;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: left;
+  font-size: 12px;
+  font-family: arial;
+  color: #984b43;
+  word-break: break-all;
+  height: 80px;
+  width: 350px;
+  margin-left:0px;
+  margin-top: 20px;
+  border-color:  #984b43;
+
+}
+.rectan2{
+  height: 450px;
+  width: 590px;
+  background-color: none;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 30px;
+  border-radius: 3px;
+  border: 8px solid;
+  border-color: #eac67a;
+}
+.boton33 {
+  margin-top: 25px;
+text-decoration: none;
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+  height: 50px;
+  width: 300px;
+}
+.boton33:hover {
+  text-decoration: none;
+  background: #eac67a;
+  color: #fff !important;
+}
+
+.boton332 {
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: #eac67a;
+  border: 4px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+}
+.boton332:hover {
+  background: #eac67a;
+  color: #fff !important;
+}
+.boton3s2 {
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+  background: none;
+  color: #fff !important;
+}
+.boton3s2:hover {
+  background: #eac67a;
+  color: #fff !important;
+}

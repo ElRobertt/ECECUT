@@ -1,0 +1,158 @@
+.bodys{
+  height: 1000px;
+  width: auto;
+  background-color: none;
+}
+#separar {
+  padding: 3%;
+  display: inline-block;
+}
+.logo2{
+  margin-left: 62px;
+  border-style: solid;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: #233237;
+  height: 100px;
+  width: 100px;
+  margin-right: 500px
+}
+.butonss{
+  margin-top: 30px;
+  height: 150px;
+  width: 350px;
+  margin-right: -15px;
+}
+.boton3s {
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+  background: #eac67a;
+  color: #fff !important;
+}
+.boton3s:hover {
+  background: #eac67a;
+  color: #fff !important;
+}
+
+.personal
+{
+  height: 300px;
+  width: 750px;
+  background-color: none;
+}
+.whiteblock{
+  height: 150px;
+  width: 150px;
+  background-color: none;
+}
+.imagencita{
+  height: 200px;
+  width: 200px;
+  background-color: none;
+  float: left;
+}
+.texte{
+  height: 200px;
+  width: 540px;
+  background-color: none;
+  float: right;
+}
+.texte2{
+  height: 100px;
+  width: 750px;
+  background-color: none;
+  float: right;
+}
+.ps{
+  margin-left: 30px;
+  font-family: verdana;
+  font-size: 15px;
+  color: white;
+
+}
+.h1{
+  color: white;
+  font-size: 30px;
+  font-family: comic sans;
+}
+.skillss{
+  height: 450px;
+  width: 750px;
+
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.titles{
+
+  height: 60px;
+  width: 750px;
+  background-color: none;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 1px;
+  border-radius: 0px;
+  color: white;
+  font-family: verdana;
+}
+.iconse{
+  float: left;
+  height: 388px;
+  width: auto;
+  background-color: none;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 1px;
+  border-radius: 0px;
+}
+.subtitles{
+  height: 40px;
+  width: 596px;
+  background-color: none;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 1px;
+  border-radius: 0px;
+  color: white;
+  font-family: verdana;
+  float: right;
+  font-size: 10px;
+
+}
+.datos{
+  height: 85.2px;
+  width: 596px;
+  background-color: none;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 1px;
+  border-radius: 0px;
+  color: white;
+  font-family: Microsoft Yi Baiti;
+  float: right;
+  margin-top: 0px;
+
+}
+.tams{
+  height: 129px;
+  width: 150px;
+
+}
+.images{
+  margin-left: 300px;
+}
+.blancosicon{
+  float: left;
+  height: 388px;
+  width: 15px;
+}

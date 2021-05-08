@@ -1,0 +1,390 @@
+*{
+  margin: 0px;
+}
+.headerdiv{
+  z-index: 3;
+  position: fixed;
+  display: flex;
+  margin-top: 0px;
+  background-color: #18121e;
+  height: 10%;
+  width:100%;
+
+}
+a{
+    text-decoration:none;
+}
+.img1 {
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+}
+.logo{
+  margin-left: 62px;
+  border-style: solid;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: #233237;
+  height: 100px;
+  width: 100px;
+  margin-right: 500px
+
+}
+.butons{
+  text-decoration: none;
+  margin-top: 30px;
+  height: 150px;
+  width: 350px;
+  margin-right: -15%;
+}
+.boton3 {
+text-decoration: none;
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+}
+.boton3:hover {
+  text-decoration: none;
+  background: #eac67a;
+  color: #fff !important;
+}
+
+.butons2{
+  margin-top: 30px;
+  height: 150px;
+  width: 350px;
+  margin-right: -25px;
+}
+.boton32 {
+  color: #fff !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 4px solid;
+  border-color: #984b43;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+}
+.boton32:hover {
+  background: #eac67a;
+  color: #fff !important;
+}
+
+#separar {
+  padding: 3%;
+  display: inline-block;
+}
+.divbody{
+  margin-top: 0px;
+  width: auto;
+  height: 1150px;
+  background-color: #233237;
+  margin-bottom: 60px;
+  border-top: none;
+}
+.elementos{
+  font-family: courier;
+  font-size: 28px;
+  color: white;
+  width: 700px;
+  height: 40px;
+  margin-top: 65px;
+}
+.elementos2{
+  background-color: none;
+  width: 400px;
+  height: 40px;
+  margin-top: 0px;
+}
+.fons{
+  margin-top: 30px;
+font-family: Arial Narrow;
+color: white;
+}
+.tablica{
+  border-top: 0px;
+  margin-top: 60px;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 0px;
+  border-radius: 0px;
+  width:600px;
+  height:450px;
+  margin-bottom: 0px;
+  border-right: 3px;
+
+}
+
+.tablica2{
+  margin-top: 0px;
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 3px;
+  border-radius: 1px;
+  width: 450;
+  height: 70px;
+  font-family: Microsoft Yi Baiti;
+  font-size: 18px;
+  color: white;
+}
+.tablica3{
+  margin-bottom: 40px;
+  width: -600px;
+  height: 30px;
+background-color: #233237;
+}
+.tablica4{
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 3px;
+  border-radius: 1px;
+  margin:auto;
+  margin-top: -60px;
+  width: 209px;
+  height:210px;
+  font-family: arial;
+  color: white;
+}
+.tablica4:hover{
+background-color: #18121e;
+}
+.blancos{
+  background-color: #233237;
+  width: 100px;
+  height: 50px;
+}
+.minis{
+  border-style: solid;
+  border-color: #eac67a;
+  border-width: 3px;
+  border-radius: 1px;
+  margin-top: 30px;
+  height: 180px;
+  width: 550px;
+  background-color: #233237;
+}
+
+.hs{
+  margin-bottom: 0px;
+  font-size: 40px;
+  color:white;
+  font-family: Microsoft Yi Baiti;
+}
+.gams{
+  margin-bottom: 0px;
+  height:50px;
+  width: 50px;
+  background-color: none;
+}
+.gams:hover{
+  background-color: #18121e;
+
+}
+.gams2{
+  height: 50px;
+  width: 150px;
+  background-color: none;
+}
+.fonts{
+  margin-top: 0px;
+color: white;
+font-size: 10px;
+}
+.fots{
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 3px;
+  margin-bottom: 0px;
+  width: 100%;
+  height: 200px;
+  background-color: #18121e;
+}
+.fotsf{
+  margin-left: 60px;
+  margin-right: 50px;
+  margin-top: 50px;
+  width: 250px;
+  height: 200px;
+  background-color: none;
+}
+.blancosfot{
+  width: 400px;
+  height: 30px;
+  background-color: none;
+}
+.blancosfot2{
+  width: 10px;
+  height: 30px;
+  background-color: none;
+}
+.fontfod{
+  margin-left: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+  font-size: 12px;
+  font-family: arial;
+}
+.fontfod2{
+  margin-left: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+}
+.redes{
+  margin-right: 10px;
+  background-color: none;
+  height: 35px;
+  width: 35px;
+}
+.animado{
+  opacity: 0;
+  transition: all 0.5s;
+}
+
+.mostrarArriba{
+  animation: mostrarArriba 1s;
+
+}
+.mostrarAbajo{
+  animation: mostrarAbajo 1s;
+}
+@keyframes mostrarArriba {
+  0%{
+    transform: translateY(60px);
+  }
+
+  100%{
+    transform: translateY(0);
+  }
+}
+@keyframes mostrarAbajo {
+  0%{
+    transform: translateY(-60px);
+  }
+
+  100%{
+    transform: translateY(0);
+  }
+}
+
+.butonse {
+  margin-top: 20px;
+  height: 30px;
+  width: 100%;
+  text-decoration: none;
+  color:gray;
+  font-size: 25px;
+  padding: 0em 0em;
+  background: none;
+  border: 0px solid;
+  border-color: none;
+  transition: all 1s ease;
+  position: relative;
+  font-family: Microsoft Yi Baiti;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+}
+.butonse:hover {
+  text-decoration: none;
+  background: #eac67a;
+  color: #fff ;
+}
+.ventana{
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 380px;
+  background-color: #18121e;
+  width:600px;
+  color:white;
+  font-family: arial;
+  font-size: 18px;
+  text-align: center;
+  padding: 0px;
+  min-height: 250px;
+  border-radius: 3px;
+  border: 3px solid;
+  border-color: #eac67a;
+  position: absolute;
+  display: none;
+}
+.titless{
+  padding: 0px;
+  margin-top: 0px;
+  position: absolute;
+  margin-left: 5px;
+  height: 50px;
+  width: 600px;
+}
+.subs{
+  padding: 0px;
+  margin-top: 0px;
+  position: absolute;
+
+  height: 50px;
+  width: 250px;
+  text-align: left;
+  font-size: 25px;
+  color:white;
+  font-family: calibri;
+}
+.closes{
+  margin-left: 560px;
+  padding: 0px;
+  margin-top: 8px;
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+}
+.closes:hover{
+
+}
+.looks{
+  display: none;
+}
+.c1{
+  transform: rotate(-45deg);
+  z-index:0 ;
+  margin-top: 80px;
+position: absolute;
+height: 260px;
+width: 380px;
+background-color: none;
+margin-left: 20px;
+border-radius: 3px;
+}
+.c2{
+z-index: 1;
+position: absolute;
+margin-top: 60px;
+margin-left: 110px;
+height: 260px;
+width: 380px;
+background-color: red;
+
+}
+.c3{
+z-index:2 ;
+position: absolute;
+  margin-top: 130px;
+  margin-left: 200px;
+  height: 235px;
+  width: 380px;
+  background-color: blue;
+
+}
